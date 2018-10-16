@@ -23,6 +23,7 @@ crashplan: .deploy/crashplan
 davite: .deploy/davite
 db00: .deploy/db00
 db02: .deploy/db02
+db03: .deploy/db03
 docs: .deploy/docs
 dovecot: .deploy/dovecot
 dropbox: .deploy/dropbox
