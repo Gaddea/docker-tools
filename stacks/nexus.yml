@@ -16,8 +16,7 @@ services:
     deploy:
       placement:
         constraints:
-        - node.hostname == denali
-        #- node.labels.swarm-sync-member == true
+        - node.labels.swarm-sync-member == true
 
 networks:
   default:
